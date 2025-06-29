@@ -23,4 +23,5 @@ Requirements
 3. 'matplotlib' for bar chart
 4. 
 About
+
  This project was built to help manage stock in a grocery store. It includes a simple graphical user interface and supports exporting reports.
